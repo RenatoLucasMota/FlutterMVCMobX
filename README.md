@@ -1,4 +1,4 @@
-## Projeto voltado para demonstrar o uso do Design Pattern MVC com MobX
+## Projeto voltado para demonstrar o uso do Padrão MVC com MobX
 
 ### Features
  -  Uso de MobX
